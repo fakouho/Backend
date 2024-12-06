@@ -9,6 +9,6 @@ public class Child extends Parent {
         protectval=1;
 
         publicMethod();
-        
+
     }
 }
